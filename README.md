@@ -7,3 +7,5 @@ In Task5: I have used recursion to find the factorial of a number given by the u
 In Task6: I have taken input from the user. Then used import math module. After that stored the results of the following math functions accordingly.
 In Task7 : I have used with statement to handle the file. And for printing i have used for loop.And for exception handling i have used try and except.
 In Task8: I have used simple open file handling options to write,append and to read the files.
+In Task9: I have built a dictionary with the student name and with their marks. For showing the marks I ahve used indexing.
+In Task10:I have created a list. For extraxting I have used slicing. And for reversing i have used -1 for steping down.
