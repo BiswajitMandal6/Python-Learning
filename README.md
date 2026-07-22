@@ -9,3 +9,4 @@ In Task7 : I have used with statement to handle the file. And for printing i hav
 In Task8: I have used simple open file handling options to write,append and to read the files.
 In Task9: I have built a dictionary with the student name and with their marks. For showing the marks I ahve used indexing.
 In Task10:I have created a list. For extraxting I have used slicing. And for reversing i have used -1 for steping down.
+  
